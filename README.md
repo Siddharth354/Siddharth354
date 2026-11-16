@@ -205,13 +205,6 @@ Cybersecurity fundamentals and secure API development.
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Siddharth354&theme=tokyonight&no-frame=true&margin-w=6&column=7" alt="GitHub trophies" />
-
-</div>
 
 ---
 
