@@ -258,8 +258,6 @@ open_to:
 
 <div align="center">
 
-<i>Build systems that can show their work, and say so when they cannot.</i>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:312e81,100:0f0c29&height=120&section=footer" width="100%" alt="Footer" />
 
 </div>
