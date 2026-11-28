@@ -203,14 +203,6 @@ Cybersecurity fundamentals and secure API development.
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddharth354&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=6d28d9&title_color=c4b5fd&hide_border=true" width="100%" alt="Contribution activity graph" />
-
-</div>
-
 ---
 
 ## Contribution Snake
